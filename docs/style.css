@@ -1,7 +1,31 @@
-img{
-   float:right;
-   margin: 4px 10px 0 15px;
-   padding:5px;
+body {
+    font-family:"Lucida Console", "Courier New", monospace;
+    }
+    figure{width:80%;
+    
+   
+        
+    }    
+    
+    section{
+     background: lavenderblush;
+     width:90%;
+     margin:auto;
+     
+   
+     
+     
+
+        
+  }
     
     
-}
+    
+    
+    
+    
+    
+    
+    
+
+
